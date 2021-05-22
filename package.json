@@ -1,0 +1,16 @@
+{
+  "name": "ableton-tailwind-css",
+  "version": "1.0.0",
+  "description": "A responsive web design using tailwind css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "responsive",
+    "webdesign"
+  ],
+  "author": "Swarup Kumar das",
+  "license": "ISC"
+}

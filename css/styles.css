@@ -1,0 +1,12 @@
+* {
+  font-family: "Josefin Sans", sans-serif;
+}
+@media screen and (max-width: 1024px) {
+  .lg-menu {
+    display: none;
+  }
+}
+a {
+  cursor: pointer;
+  display: block;
+}
